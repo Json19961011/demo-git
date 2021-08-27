@@ -11,5 +11,6 @@ public class Test {
         System.out.println("测试Git提交");
         System.out.println("master测试Git提交");
         System.out.println("hot-fix测试Git提交");
+        System.out.println("master向GitHub推送新的代码");
     }
 }
